@@ -19,7 +19,6 @@ class UserProfile: ObservableObject {
 //        }
 //        return false
 //    }
-
     init() {
         self.totalScore = UserDefaults.standard.integer(forKey: "totalScore")
         if self.totalScore == 0 { self.totalScore = 100 } // стартовый баланс
