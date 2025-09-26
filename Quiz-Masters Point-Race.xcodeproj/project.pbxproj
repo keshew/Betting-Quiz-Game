@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		86B57C032E86407F00CCE903 /* Betting Quiz Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Betting Quiz Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		86B57C032E86407F00CCE903 /* Quiz-Masters Point-Race.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quiz-Masters Point-Race.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		86B57C042E86407F00CCE903 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				86B57C032E86407F00CCE903 /* Betting Quiz Game.app */,
+				86B57C032E86407F00CCE903 /* Quiz-Masters Point-Race.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		86B57C022E86407F00CCE903 /* Betting Quiz Game */ = {
+		86B57C022E86407F00CCE903 /* Quiz-Masters Point-Race */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 86B57C112E86408000CCE903 /* Build configuration list for PBXNativeTarget "Betting Quiz Game" */;
+			buildConfigurationList = 86B57C112E86408000CCE903 /* Build configuration list for PBXNativeTarget "Quiz-Masters Point-Race" */;
 			buildPhases = (
 				86B57BFF2E86407F00CCE903 /* Sources */,
 				86B57C002E86407F00CCE903 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				86B57C052E86407F00CCE903 /* Betting Quiz Game */,
 			);
-			name = "Betting Quiz Game";
+			name = "Quiz-Masters Point-Race";
 			packageProductDependencies = (
 			);
 			productName = "Betting Quiz Game";
-			productReference = 86B57C032E86407F00CCE903 /* Betting Quiz Game.app */;
+			productReference = 86B57C032E86407F00CCE903 /* Quiz-Masters Point-Race.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 86B57BFE2E86407F00CCE903 /* Build configuration list for PBXProject "Betting Quiz Game" */;
+			buildConfigurationList = 86B57BFE2E86407F00CCE903 /* Build configuration list for PBXProject "Quiz-Masters Point-Race" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				86B57C022E86407F00CCE903 /* Betting Quiz Game */,
+				86B57C022E86407F00CCE903 /* Quiz-Masters Point-Race */,
 			);
 		};
 /* End PBXProject section */
@@ -255,6 +255,7 @@
 				DEVELOPMENT_TEAM = 59WWFG63NN;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Quiz-Masters: Point-Race";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +285,7 @@
 				DEVELOPMENT_TEAM = 59WWFG63NN;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Quiz-Masters: Point-Race";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -305,7 +307,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		86B57BFE2E86407F00CCE903 /* Build configuration list for PBXProject "Betting Quiz Game" */ = {
+		86B57BFE2E86407F00CCE903 /* Build configuration list for PBXProject "Quiz-Masters Point-Race" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				86B57C0F2E86408000CCE903 /* Debug */,
@@ -314,7 +316,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		86B57C112E86408000CCE903 /* Build configuration list for PBXNativeTarget "Betting Quiz Game" */ = {
+		86B57C112E86408000CCE903 /* Build configuration list for PBXNativeTarget "Quiz-Masters Point-Race" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				86B57C122E86408000CCE903 /* Debug */,
